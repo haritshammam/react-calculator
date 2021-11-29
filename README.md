@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=DgRrrOt0Vr8&list=WL&index=41
 
 ## Specification
 
-This project was build using:
+This project was built using:
 
 1. React.js v17.0.2
 2. CSS
